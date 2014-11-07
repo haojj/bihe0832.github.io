@@ -6,6 +6,10 @@ tags: Awesome Bootstrap css
 description: Font Awesome 是一套完美的图标字体，主要目的是和 Bootstrap 搭配使用
 ---
 
+## 快速检索
+
+[http://blog.bihe0832.com/pages/font-awesome.html](http://blog.bihe0832.com/pages/font-awesome.html)
+
 ## 特性
 
 ###一个字体文件， 249 个图标
