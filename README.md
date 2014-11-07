@@ -22,6 +22,6 @@
 
 一些个人心情等内容和杂乱的文章
 
-#博客框架介绍：
+#博客框架参考：
 
-参考模版：[https://github.com/beiyuu/beiyuu.github.com](https://github.com/beiyuu/beiyuu.github.com)
+参考模版：[https://github.com/suyan/suyan.github.io](https://github.com/suyan/suyan.github.io)
