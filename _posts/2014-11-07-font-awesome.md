@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Font Awesome, 为 Bootstrap 而创造的图标字体
-category: web 前端
+category: web前端
 tags: Awesome Bootstrap css
 description: Font Awesome 是一套完美的图标字体，主要目的是和 Bootstrap 搭配使用
 ---
