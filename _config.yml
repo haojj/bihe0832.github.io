@@ -12,7 +12,9 @@ author:
   link: http://blog.bihe0832.com
   weibo: http://weibo.com/bihe0832
   github: http://github.com/bihe0832
-
+  oldblog: http://bihe0832.sinaapp.com
+  qq:402998643
+  
 # 站点信息
 title: 子勰的博客
 description: 屌丝程序猿，鸡血攻城狮；努力学技术，潜心做精品！
@@ -37,7 +39,7 @@ cates:
 # 中文本地化
 locals:
   tags: 标签
-  about: 关于作者
+  about: 写在最后
   newest: 最新文章
   archive: 历史文章
-  content: 目录
+  content: 本文结构
